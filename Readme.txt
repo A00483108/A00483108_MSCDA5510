@@ -3,5 +3,6 @@ I have used verious programming tools and techniques like ASP.net, C#, Jquery, J
 
 I am interested in intigrating verious AI tools like Chat Bot, Data Analytics in web platforms. Which can be very usefull in terms of user experiance. 
 
+
 FUN FACT: The first computer bug was an actual bug. In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, causing a malfunction. The term "debugging" was inspired by this incident.
 
